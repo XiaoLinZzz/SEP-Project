@@ -1,0 +1,11 @@
+.signup-background{
+    background: linear-gradient(to b, #C3002F 50%, #e8e8e8 60%)
+
+}
+
+#yellow-block{
+//背景色调整，上部分白，下部分黄
+
+    height:180px;
+    margin:auto;
+}

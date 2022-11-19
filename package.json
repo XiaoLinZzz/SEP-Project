@@ -1,0 +1,16 @@
+{
+  "name": "cycin1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node your-script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.cs.adelaide.edu.au/a1754209/CYCIN1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}

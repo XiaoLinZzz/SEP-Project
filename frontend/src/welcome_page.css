@@ -1,0 +1,44 @@
+/* CYCLING Team Pursuit Optimisation Tool */
+.header {
+    position: absolute;
+    width: 703px;
+    height: 45px;
+    left: 248px;
+    top: 67px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #000000;
+}
+
+/* AUS */
+.AUS {
+    position: absolute;
+    width: 102px;
+    height: 55px;
+    left: 193px;
+    top: 66px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #DDD51F;
+}
+
+/* picture */
+.img {
+    position: absolute;
+    width: 531px;
+    height: 1024px;
+    left: 909px;
+    top: 0px;
+
+    background: url(frontend\public\welcome_image.png);
+}
