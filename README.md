@@ -6,7 +6,7 @@ Our design (Figma): https://www.figma.com/file/jG1fQSH84C2No1uWrKudyA/CYCIN-1?no
 
 
 
-## How to start our website?
+## How to use our website?
 
 To start our website, you need to access the frontend file by this command
 ```
