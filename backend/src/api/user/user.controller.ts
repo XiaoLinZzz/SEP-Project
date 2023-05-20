@@ -42,6 +42,8 @@ class UserController {
       email: req.body.email,
     };
 
+    // TODO: Send email to user with reset password link
+
     const user = await userService.forgotPassword(props);
 
     res.status(200).json(user);
